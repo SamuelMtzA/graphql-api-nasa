@@ -1,3 +1,4 @@
-# Graphql example of Nasa API
-...
+# Graphql example of 
+----------
 basic understanding of graphql and the structure
+----------
